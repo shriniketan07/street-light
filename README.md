@@ -18,7 +18,7 @@ This project demonstrates an automatic street light system using basic electroni
 6. Breadboard and jumper wires
 
 ## Schematic:
-![Schematic](schematic.png)
+![Schematic](schematic.jpg)
 
 ## Assembly Instructions:
 1. **LDR Connection**: Connect one end of the LDR to the positive rail of the breadboard and the other to the base of the first BC547 transistor. Also, connect a 1kΩ resistor between the base of the BC547 and the negative rail of the breadboard.
